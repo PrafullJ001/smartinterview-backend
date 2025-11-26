@@ -1,24 +1,4 @@
 
-
-// // backend/routes/aiRoutes.js
-// import express from "express";
-// import { saveInterview, generateQuestions } from "../controllers/interviewAI.js";
-
-// const router = express.Router();
-
-// router.post("/generate-questions", generateQuestions);
-// router.post("/save-interview", saveInterview);
-
-// export default router;   // <-- VERY IMPORTANT
-
-
-
-
-
-
-
-
-
 // backend/routes/aiRoutes.js
 import express from "express";
 import {
